@@ -35,10 +35,10 @@ const Navbar = () => {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-2">
             <span className="font-heading text-2xl md:text-3xl font-semibold text-primary">
-              Cuisine
+              Modern
             </span>
             <span className="font-heading text-2xl md:text-3xl font-light text-foreground">
-              Wave
+              Fork
             </span>
           </a>
 
